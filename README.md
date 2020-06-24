@@ -4,4 +4,4 @@
 
 ## Overview
 
-Using Inverse Kinematics rule, I created Python code which estimates the postion of links 
+During my internship at JCB India I used Inverse Kinematics rule to create the Python code which estimates the postion of links.
